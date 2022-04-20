@@ -1,1 +1,1 @@
-# Sql study repo
+# Oracle & Mysql 
