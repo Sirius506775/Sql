@@ -12,7 +12,7 @@
 | INTAKE_CONDITION | VARCHAR(N) | FALSE |
 | NAME | VARCHAR(N) | TRUE |
 | SEX_UPON_INTAKE | VARCHAR(N) | FALSE |
-### ***1. SQL Kata***
+
 
 동물 보호소에 들어온 모든 동물의 정보를 ANIMAL_ID순으로 조회하는 SQL문을 작성해주세요. SQL을 실행하면 다음과 같이 출력되어야 합니다.
 
@@ -23,6 +23,7 @@
 | A350375 | Cat | ‣ | Normal | Meo | Neutered Male |
 | A352555 | Dog | ‣ | Normal | Harley | Spayed Female |
 
+### ***1. SQL Kata***
 Programmers SQL 고득점 kit Level 1
 
 Select 문제 中 **모든 레코드 조회하기**
